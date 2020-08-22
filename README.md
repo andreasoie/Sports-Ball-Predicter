@@ -1,5 +1,5 @@
 # Sports-Ball-Predicter
-> A image classification model which tells you what kind of sports ball it is (or it its an egg).
+> A image classification model which tells you what kind of sports ball it is (or if its an egg).
 
 ## Notice
 
